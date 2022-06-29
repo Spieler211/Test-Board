@@ -1,1 +1,11 @@
-/* Add application styles & imports to this file! */
+/* Add application styles & imports to this file!
+Hier Styles festlegen, die für das gesamte Projekt gelten. 
+
+Was ich also hier definiere wird als Standard gesetzt -> wenn ich was anderes
+in einem speziellen Fall will kann ich es dort in der ts und html ändern und es wird quasi
+überschrieben.*/
+
+body {
+  font-family: 'Trebuchet MS', Tahoma, sans-serif;
+  margin: 0;
+}
